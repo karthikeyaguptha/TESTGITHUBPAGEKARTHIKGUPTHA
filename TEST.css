@@ -1,0 +1,17 @@
+table, th, td
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 50px;
+    width: 200px;
+}
+th, td
+{
+    padding: 20px;
+
+}
+
+#footerline
+{
+  text-align: right;
+}
